@@ -1,5 +1,14 @@
-# Ignore all files inside the data folder
-data/*
+# Ignore all data files but preserve folder structure
+data/**/*
+!data/**/
+!data/**/.gitkeep
 
-# But do not ignore the .gitkeep file inside it
-!data/.gitkeep
+# ignore venv
+venv_gis_ENDPROJEKT/
+ 
+# cache
+cache/
+
+# other files
+Julian_Files/
+Project_explanation.md
