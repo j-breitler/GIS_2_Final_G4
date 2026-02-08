@@ -1,0 +1,3 @@
+URL-Link for GitHub-Repository - End Project GIS analysis techniques 2 VU, Group 4 (medical care facilities):
+
+https://github.com/j-breitler/GIS_2_Final_G4.git
